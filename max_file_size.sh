@@ -1,8 +1,4 @@
 #!/bin/bash
-#Zach Duncan
-#COP 4342
-#Assignment 2
-#DUE 9/24/2020
 
 #PROGRAM DESCRIPTION:
 #This program determines the maximum size of all files under a given directory
