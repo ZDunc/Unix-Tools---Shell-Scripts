@@ -6,7 +6,7 @@ Unix Tools Coursework - Shell Scripting
 - dir_stats.sh
 
 ## (2) Calculate and print maximum file size in directory program
-### This program determines the maximum size of all files under a given directory. Enter the directory as the command-line argument to the shell program. If subdirectories exist, the program will extend to all subdirectories to determine the maximum size of all files.
+### PROGRAM DESCRIPTION -- This program determines the maximum size of all files under a given directory. Enter the directory as the command-line argument to the shell program. If subdirectories exist, the program will extend to all subdirectories to determine the maximum size of all files.
 - max_file_size.sh
 
 ## (3) Rename file program
